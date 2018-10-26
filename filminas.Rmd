@@ -171,8 +171,9 @@ knitr::opts_chunk$set(echo = FALSE)
 `te interesa alguno?`
 `descargá estas filminas y accedé!`
 
-* github: `link-github`
-* famaf: `link-famaf`
+<https://github.com/pap84/charla-ceimaf-oct2018>
+
+O escribinos!
 
 # Gracias!
 
