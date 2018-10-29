@@ -6,7 +6,7 @@ author: |
   | <font size=7>P. Pérez</font>
   | <font size=6 color=blue family=verdana>liifamirx</font> <font size=6><</font> <font size=6pt color=#32B8D6">FAMAF-UNC & IFEG-CONICET</font>
 date: |
-  | <img src="imgs/logo2.pdf"  height="150" style="border: none !important;">
+  | <img src="imgs/logo2.pdf"  height="150" style="border: none !important;"> <img src="imgs/logo-ceimaf.png"  height="150" style="border: none !important;">
 output: 
   revealjs::revealjs_presentation:
     theme: white
@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <!-- LIIFAMIR  -->
 <!-- --------------------------  -->
 
-# LIIFAMIR$^x$
+# LIIFAMIR$^{\small x}$
 
 ## 
 
@@ -166,15 +166,28 @@ knitr::opts_chunk$set(echo = FALSE)
 - 2 equipamientos de lectura de geles bidimensionales
 - acceso a varios núcleos de procesamiento (Argentina y Chile)
 
+## 
+
+![](imgs/mednuc.gif){height=200px style="border: none !important; vertical-align: middle;"}
+![](imgs/radter.jpg){height=200px style="border: none !important; vertical-align: middle;"}
+![](imgs/radter2.jpg){height=200px style="border: none !important; vertical-align: middle;"}
+![](imgs/generador.jpg){height=200px style="border: none !important; vertical-align: middle;"}
+![](imgs/dos1.JPG){height=200px style="border: none !important; vertical-align: middle;"}
+![](imgs/dos2.JPG){height=200px style="border: none !important; vertical-align: middle;"}
+![](imgs/microCT.png){height=200px style="border: none !important; vertical-align: middle;"}
+![](imgs/rata.png){width=300px style="border: none !important; vertical-align: middle;"}
+![](imgs/rata-rad.png){width=300px style="border: none !important; vertical-align: middle;"}
+
 ## descarga slides
 
-`te interesa alguno?`
+`te interesa alguno de nuestros trabajos?`
 `descargá estas filminas y accedé!`
 
 <https://github.com/pap84/charla-ceimaf-oct2018>
 
 O escribinos!
 
-# Gracias!
+## Gracias!
 
-
+![](imgs/nuevo-lab1.png){height=300px style="border: none !important; vertical-align: middle;"}
+![](imgs/const4.png){height=300px style="border: none !important; vertical-align: middle;"}
