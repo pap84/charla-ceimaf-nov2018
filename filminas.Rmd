@@ -45,12 +45,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | <pedro.perez@unc.edu.ar>
 | <http://www.famaf.unc.edu.ar/~pperez1/>
 | <http://liifamirx.famaf.unc.edu.ar/members/perez/>
-
-## nosotrxs
-
-| <http://liifamirx.famaf.unc.edu.ar>
-
-<img src="imgs/liifamir-group.png">
+| Oficina 471
+| Labo 448
 
 ## trabajo como físico
 - docencia
@@ -61,6 +57,30 @@ knitr::opts_chunk$set(echo = FALSE)
 - otros:
   - aplicaciones de imágenes de rx
   - radioprotección
+
+## nosotrxs
+
+| <http://liifamirx.famaf.unc.edu.ar>
+
+<img src="imgs/liifamir-group.png">
+
+## física médica
+
+qué hacemos?
+
+- física de radiaciones ionizantes
+  - capacidad de ionizar un átomo
+  - capaz de romper moléculas
+  - capaz de dañar el ADN
+- diagnóstico
+- terapia
+- dosimetría
+- aplicaciones industriales
+  - estudio de procedimientos
+  - control de calidad
+  - imágenes no invasivas
+- trabajo en clínicas
+
 
 <!-- --------------------------  -->
 <!-- LIIFAMIR  -->
@@ -130,7 +150,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Dosimetría**
 <small>
 <ul style="list-style-type:none">
-  <li><a href="https://www.sciencedirect.com/science/article/pii/S0969806X16304911">Refuerzo y detección online con nanopartículas de Au y Ag</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0969806X16304911">Refuerzo y detección online con nanopartículas de Au y Ag</a></li> (*teragnosis*)
   <li><a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1120/jacmp.v17i4.5626">Desarrollo de dosímetros de gel Fricke para bajas dosis</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1350448716301202">Dosimetría 2D con geles poliméricos y de Fricke</a></li>
 </ul>
@@ -159,7 +179,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Laboratorios y procesamiento
 
 - 2 laboratorios
-  1. línea de 60 keV con microtomógrafo
+  1. línea de 60 keV con microtomógrafo $\leftarrow$ (con GEAN)
   2. línea de 225 keV en construcción:
     - refuerzo de dosis con nanopartículas y monitoreo online
     - microtomografía de muestras "*duras*"
